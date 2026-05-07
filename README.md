@@ -1,4 +1,4 @@
-# SiftMail Showcase
+# SiftMail Architecture
 
 **SiftMail** is an AI-powered inbox shield and triage layer designed to sit between your email inbox and everything trying to reach you.
 
